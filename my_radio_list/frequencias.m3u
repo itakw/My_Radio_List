@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1, Gensokyo Radio | Mobile  64kbps[Opus]
+http://51.222.29.172:8000/2
+#EXTINF:-1, Gensokyo Radio | Original 128kbps[Mp3]
+http://51.222.29.172:8000/1
+#EXTINF:-1, Gensokyo Radio | Enhancen 256kbps[Mp3]
+http://51.222.29.172:8000/3
+#EXTINF:-1, Rock.FM
+http://flucast-b02-06.flumotion.com/cope/rockfm.mp3
+#EXTINF:-1, Dubstep Light Radio | 128 kbps[Mp3]
+http://dubstep-light.info/radio/8000/dubsteplight.mp3
+#EXTINF:-1, Dubstep Light Radio |  64 kpbs[AAC]
+http://dubstep-light.info/radio/8000/dubsteplight-aac64
+#EXTINF:-1, Nigride FM
+http://stream.nightride.fm/nightride.m4a
